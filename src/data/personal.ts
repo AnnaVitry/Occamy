@@ -15,7 +15,7 @@ export const PERSONAL_INFO = {
         { text: ". Today, I apply this analytical mindset to the deep mechanics of AI, blending my years of development experience  with the latest in model training.", bold: false },
     ],
     skills: ["🚀 Fast Learner", "🎢​ Problem Solver", "🛼​ Creative"],
-    heroDescription: "Full Stack Developer & AI Integration Apprentice.\n I leverage 3 years of experience in web architecture to build applications enhanced by Artificial Intelligence.",
+    heroDescription: "Full Stack Developer & AI Integration Apprentice.",
     resumeUrl: "https://drive.google.com/file/d/1LiUP0DgrTOBrsomdMS5sxPeHKSRblyIZ/view?usp=sharing",
     socialLinks: [
         {
