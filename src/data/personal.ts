@@ -16,14 +16,14 @@ export const PERSONAL_INFO = {
     ],
     skills: ["🚀 Fast Learner", "🎢​ Problem Solver", "🛼​ Creative"],
     heroDescription: "Full Stack Developer & AI Integration Apprentice.",
-    resumeUrl: "https://drive.google.com/file/d/1LiUP0DgrTOBrsomdMS5sxPeHKSRblyIZ/view?usp=sharing",
+    // resumeUrl: "https://drive.google.com/file/d/1LiUP0DgrTOBrsomdMS5sxPeHKSRblyIZ/view?usp=sharing",
     socialLinks: [
         {
             href: "https://www.linkedin.com/in/annavitry/",
             label: "LinkedIn",
         },
-        { href: "https://github.com/AnnaVitry", label: "GitHub" },
+        // { href: "https://github.com/AnnaVitry", label: "GitHub" },
         { href: "https://www.instagram.com/annavitry_", label: "Instagram" },
-        { href: "mailto:annavitrypro@gmail.com", label: "Email" },
+        // { href: "mailto:annavitrypro@gmail.com", label: "Email" },
     ],
 };
