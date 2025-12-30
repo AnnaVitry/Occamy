@@ -33,12 +33,20 @@ import Badge from "../UI/Badge.astro";
                 Hi! I'm <span class="text-white font-semibold"
                     >{PERSONAL_INFO.name}</span
                 >,
-                {PERSONAL_INFO.description}
+                {PERSONAL_INFO.description.map((part) => (
+                    <span class={part.bold ? "font-semibold text-white" : "font-normal"}>
+                    {part.text}
+                    </span>
+                ))}
             </p>
             <p
                 class="text-lg md:text-xl text-gray-300 leading-relaxed font-light"
             >
-                {PERSONAL_INFO.journey}
+                {PERSONAL_INFO.jouorney.map((part) => (
+                    <span class={part.bold ? "font-semibold text-white" : "font-normal"}>
+                    {part.text}
+                    </span>
+                ))}
             </p>
             <div class="flex flex-wrap gap-4 mt-4">
                 {
