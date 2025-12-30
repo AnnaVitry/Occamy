@@ -16,14 +16,14 @@ export const PERSONAL_INFO = {
     ],
     skills: ["🚀 Fast Learner", "🎢​ Problem Solver", "🛼​ Creative"],
     heroDescription: "Full Stack Developer & AI Integration Apprentice.",
-    // resumeUrl: "https://drive.google.com/file/d/1LiUP0DgrTOBrsomdMS5sxPeHKSRblyIZ/view?usp=sharing",
-    // socialLinks: [
-        // {
-        //     href: "https://www.linkedin.com/in/",
-        //     label: "LinkedIn",
-        // },
-        // { href: "https://github.com/", label: "GitHub" },
-        // { href: "https://www.instagram.com/_", label: "Instagram" },
-        // { href: "mailto:pro@gmail.com", label: "Email" },
-    // ],
+    resumeUrl: "https://drive.google.com/file/d/1LiUP0DgrTOBrsomdMS5sxPeHKSRblyIZ/view?usp=sharing",
+    socialLinks: [
+        {
+            href: "https://www.linkedin.com/in/",
+            label: "LinkedIn",
+        },
+        { href: "https://github.com/", label: "GitHub" },
+        { href: "https://www.instagram.com/_", label: "Instagram" },
+        { href: "mailto:pro@gmail.com", label: "Email" },
+    ],
 };
